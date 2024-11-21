@@ -1,1 +1,1 @@
-### Primeiro projetinho utilizando o React Native
+### First little project using React Native
